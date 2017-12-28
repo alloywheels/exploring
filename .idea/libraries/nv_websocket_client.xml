@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nv-websocket-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/src/main/libs/nv-websocket-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

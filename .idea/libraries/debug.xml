@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.10.1_542a5b6a2e8a74652457f148ff38d86eda44124b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/nv-websocket-client_a61f4c2e86195e681e9bd3d4f6e6f32320bbb454.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_3faee2d7d1be0975c0950dfdd5cd7dc885b43eda.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_aeac87110c59fb857618c0a0115f819bbb95d1d5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_03b922a89e8135263db4ba184742f8070dce67c2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/debug_0d27e41e6aee4e3288f7b56b940cf022002db24f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_dbdc673db6e69fa241084226b9b4a62f1c7143ce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.3_0a918e618df02f83248f5706524d3ac528f686a2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f1cccb727fd5bfbd50566ee64297fb266287644b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f0504aad288c1201a9b07ec851436a44b3c92114.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1779d4b1884a8ed9734ada18ddaa60b46cf28876.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Android/Debug/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_9ecdb40d7d64f3d5bb261b5edff7f4f5fef0cdb6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

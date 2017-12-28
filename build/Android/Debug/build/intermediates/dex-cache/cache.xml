@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_9ecdb40d7d64f3d5bb261b5edff7f4f5fef0cdb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_aeac87110c59fb857618c0a0115f819bbb95d1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\src\main\libs\nv-websocket-client.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e2859df4b1c217c768c1b4a23f54ef66af50140">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\nv-websocket-client_a61f4c2e86195e681e9bd3d4f6e6f32320bbb454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_f0504aad288c1201a9b07ec851436a44b3c92114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_dbdc673db6e69fa241084226b9b4a62f1c7143ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_f1cccb727fd5bfbd50566ee64297fb266287644b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\AppData\Local\Fusetools\Fuse\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_3faee2d7d1be0975c0950dfdd5cd7dc885b43eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.10.1\e1852a8f519dbb0196fdb41bf2c584a8858189f8\metadata-extractor-2.10.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1852a8f519dbb0196fdb41bf2c584a8858189f8">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\metadata-extractor-2.10.1_542a5b6a2e8a74652457f148ff38d86eda44124b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1779d4b1884a8ed9734ada18ddaa60b46cf28876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.3\57e70c3b10ff269fff9adfa7a31d61af0df30757\xmpcore-5.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57e70c3b10ff269fff9adfa7a31d61af0df30757">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\xmpcore-5.1.3_0a918e618df02f83248f5706524d3ac528f686a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\krys.kolodziejczyk\Documents\Fuse\exploring\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_03b922a89e8135263db4ba184742f8070dce67c2.jar" />
+    </item>
+
+</items>

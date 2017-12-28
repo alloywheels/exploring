@@ -1,0 +1,4 @@
+$: 1003131690
+BuildCommand: build.bat
+RunCommand: run.bat
+Product: exploring.apk
